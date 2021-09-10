@@ -1,14 +1,14 @@
 import csv
 import json
 
+#lists used to store data when keeping and removing data from csv
 rows_to_remove = []
 rows_to_keep = []
+
 # opens the csv file
 with open('data.csv') as data:
     data_file = csv.DictReader(data)
     line_num = 1
-    # creating new dic for csv file
-    fields = ['Year','Rank', 'Company', 'Revenue (in millions)', 'Profit (in millions)']
     for row in data_file:
         line_num += 1
         try:
