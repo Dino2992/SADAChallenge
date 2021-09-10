@@ -1,7 +1,7 @@
 # SADA Challenge
 SADA Challenge Highest-Profit
 
-For this coding challenge I used Python and a .bat file to complete the different parts of this challenge. I have used Python as it is the language that I am most comfortable with. 
+For this coding challenge I used Python as it is the language that I am most comfortable with, along with a .bat file to complete the different parts of this challenge.. 
 The reviewer will run one script run.bat. Prior to executing the script the reviewer will have to attach their python.exe path into the run.bat file. This can be done by right-clicking on the run.bat file and selecting edit.
 After clicking edit and a new window opens, the reviewer will past their python.exe path into the spot area labeled "Put path of python.exe here in between the quotes". Do not include quotes around path or the file path will not read properly.
 After pasting the path the reviewer will click save, which is under file tab so that way the run.bat will run properly.
