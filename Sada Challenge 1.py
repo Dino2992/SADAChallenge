@@ -34,11 +34,3 @@ sorted_data2 = sorted(data2, key=lambda x: x['Profit (in millions)'], reverse=Tr
 
 for row in range(20):
     print(sorted_data2[row])
-
-
-
-
-
-
-
-
