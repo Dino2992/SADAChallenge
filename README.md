@@ -1,7 +1,10 @@
 # SADA Challenge
 SADA challenge Highest profit
 
-
+For this coding challenge I used python and a .bat file to complete the different parts in this challenge. I have used python to do this challenge as it is the language that I am most comfortable with. 
+In order for the run.bat file to work properly the user will have to attach their python.exe path from their computer into the run.bat file by editing the run.bat file.
+Insert the python.exe path in the spot where it tell you to insert the path between the quotations. All other files needed to run the files are in the repository to be downloaded or cloned.
+Below are the instructions for the challenge.
 
 
 # Challenge
