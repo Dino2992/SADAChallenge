@@ -1,5 +1,5 @@
 # SADA Challenge
-SADA challenge Highest profit
+SADA Challenge Highest-Profit
 
 For this coding challenge I used python and a .bat file to complete the different parts of this challenge. I have used python as it is the language that I am most comfortable with. 
 The reviewer will run one script run.bat. Prior to executing the script the reviewer will have to attach their python.exe path into the run.bat file. This can be done by right-clicking on the run.bat file and selecting edit.
