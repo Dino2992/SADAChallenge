@@ -3,8 +3,8 @@ SADA Challenge Highest-Profit
 
 For this coding challenge I used Python as it is the language that I am most comfortable with, along with a .bat file to complete the different parts of this challenge.. 
 The reviewer will run one script run.bat. Prior to executing the script the reviewer will have to attach their python.exe path into the run.bat file. This can be done by right-clicking on the run.bat file and selecting edit.
-After clicking edit and a new window opens, the reviewer will past their python.exe path into the spot area labeled "Put path of python.exe here in between the quotes". Do not include quotes around path or the file path will not read properly.
-After pasting the path the reviewer will click save, which is under file tab so that way the run.bat will run properly.
+After clicking edit and a new window opens, the reviewer will post their python.exe path into the area labeled "Put path of python.exe here in between the quotes". Do not include quotes around path or the file path will not read properly.
+After pasting the path, the reviewer will click save, which is under the file tab so that way the run.bat will run properly.
 Once that is complete the reviewer will just have to click the run.bat file and the script will be executed. The input needed for the Highest-profit challenge is the data file in CSV format, available below in the url. This data is also available when the repository is downloaded.
 The outputs for the Highest-profit challenge are as follows. The first printed output is how many rows of data are in the CSV data. The second printed output will be how many rows of data are left after removing all the rows with invalid non-numeric profit column data.
 Another output for this challenge is a json file named data2 which includes only rows of data that have valid numeric profit values. Each row in the array contain data columns such as year, rank, company, revenue, and profit. The last printed output contains the top 20 rows with the highest profit values.
